@@ -1,0 +1,83 @@
+.proof-section {
+  max-width: 1320px;
+
+  margin: 60px auto;
+
+  padding: 30px 20px;
+
+  background: #eef0d8;
+
+  border-radius: 20px;
+
+  overflow: hidden;
+}
+
+.proof-section h2 {
+  text-align: center;
+
+  font-size: 64px;
+
+  font-weight: 900;
+
+  color: #ad342a;
+
+  margin-bottom: 50px;
+
+  line-height: 1.1;
+}
+
+.proof-grid {
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 24px;
+}
+
+.proof-card {
+  background: #ffffff;
+
+  border-radius: 20px;
+
+  padding: 40px 30px;
+
+  text-align: center;
+
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+
+  transition: 0.3s;
+}
+
+.proof-card:hover {
+  transform: translateY(-5px);
+}
+
+.proof-card img {
+  width: 180px;
+
+  height: 180px;
+
+  object-fit: contain;
+
+  margin: 0 auto 25px;
+}
+
+.proof-card p {
+  color: #ad342a;
+
+  font-size: 16px;
+
+  line-height: 1.5;
+
+  font-weight: 500;
+}
+
+@media (max-width: 992px) {
+  .proof-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .proof-section h2 {
+    font-size: 40px;
+  }
+}

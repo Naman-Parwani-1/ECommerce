@@ -1,0 +1,21 @@
+.team-intro {
+  max-width: 1320px;
+
+  margin: 40px auto;
+
+  padding: 0 40px;
+}
+
+.team-intro p {
+  font-size: 28px;
+
+  line-height: 1.7;
+
+  color: #ad342a;
+}
+
+.team-intro .highlight {
+  color: #a2483f;
+
+  font-weight: 700;
+}

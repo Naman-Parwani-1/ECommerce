@@ -1,0 +1,72 @@
+.concern-selector {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.breadcrumb {
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 35px;
+}
+
+.concern-items {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.concern-item {
+  text-align: center;
+  cursor: pointer;
+}
+
+.item-wrapper {
+  position: relative;
+}
+
+.concern-item img {
+  width: 120px;
+  height: 120px;
+
+  border-radius: 50%;
+
+  object-fit: cover;
+
+  border: 3px solid transparent;
+
+  transition: all 0.3s ease;
+}
+
+.concern-item.active img {
+  border: 4px solid #ad342a;
+
+  transform: scale(1.05);
+}
+
+.selected-tick {
+  position: absolute;
+
+  top: 2px;
+  right: 2px;
+
+  width: 28px;
+  height: 28px;
+
+  border-radius: 50%;
+
+  background: #eef6e7;
+
+  border: 2px solid #ad342a;
+
+  color: #ad342a;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-weight: 700;
+
+  font-size: 16px;
+}

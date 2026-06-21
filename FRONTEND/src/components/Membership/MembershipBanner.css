@@ -1,0 +1,46 @@
+.membership-section {
+  margin: 60px 0;
+}
+
+.membership-wrapper {
+  position: relative;
+}
+
+.membership-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.membership-overlay {
+  position: absolute;
+
+  top: 50%;
+  left: 10%;
+
+  transform: translateY(-50%);
+
+  color: white;
+
+  max-width: 500px;
+}
+
+.membership-overlay h2 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.membership-overlay p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .membership-overlay h2 {
+    font-size: 1.8rem;
+  }
+
+  .membership-overlay p {
+    font-size: 1rem;
+  }
+}

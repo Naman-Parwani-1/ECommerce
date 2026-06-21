@@ -1,0 +1,59 @@
+.collection-controls {
+  max-width: 1320px;
+
+  margin: 40px auto;
+
+  padding: 0 20px;
+
+  display: grid;
+
+  grid-template-columns: 200px 1fr 200px;
+
+  align-items: center;
+}
+
+.control-btn {
+  height: 56px;
+
+  background: white;
+
+  border: 1px solid #d9d2a5;
+
+  color: #ad342a;
+
+  font-size: 18px;
+
+  font-weight: 600;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  gap: 10px;
+
+  cursor: pointer;
+}
+
+.product-count {
+  text-align: center;
+
+  font-size: 14px;
+
+  font-weight: 700;
+
+  color: #111;
+}
+
+@media (max-width: 768px) {
+  .collection-controls {
+    grid-template-columns: 1fr;
+
+    gap: 15px;
+  }
+
+  .product-count {
+    order: -1;
+  }
+}

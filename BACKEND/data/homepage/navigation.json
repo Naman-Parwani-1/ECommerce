@@ -1,0 +1,25 @@
+{
+  "logo": "/logos/logo.jpg",
+  "menu": [
+    {
+      "title": "Categories",
+      "link": "/categories"
+    },
+    {
+      "title": "Membership",
+      "link": "/membership"
+    },
+    {
+      "title": "Shop By Concern",
+      "link": "/concerns"
+    },
+    {
+      "title": "Farm Life",
+      "link": "/farm-life"
+    },
+    {
+      "title": "Customers",
+      "link": "/customers"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Maya Tai",
+    "location": "Solapur, Maharashtra",
+    "image": "/team-on-ground/krushi-1.jpg",
+    "story": "Maya Tai's journey is one of courage and reinvention..."
+  },
+  {
+    "id": 2,
+    "name": "Kulkarni Kaka",
+    "location": "Satara, Maharashtra",
+    "image": "/team-on-ground/krushi-1.jpg",
+    "story": "The Kulkarni brothers found their true calling..."
+  },
+  {
+    "id": 3,
+    "name": "Maya Tai",
+    "location": "Solapur, Maharashtra",
+    "image": "/team-on-ground/krushi-1.jpg",
+    "story": "Maya Tai's journey is one of courage and reinvention..."
+  },
+  {
+    "id": 4,
+    "name": "Kulkarni Kaka",
+    "location": "Satara, Maharashtra",
+    "image": "/team-on-ground/krushi-1.jpg",
+    "story": "The Kulkarni brothers found their true calling..."
+  },
+  {
+    "id": 5,
+    "name": "Maya Tai",
+    "location": "Solapur, Maharashtra",
+    "image": "/team-on-ground/krushi-1.jpg",
+    "story": "Maya Tai's journey is one of courage and reinvention..."
+  },
+  {
+    "id": 6,
+    "name": "Kulkarni Kaka",
+    "location": "Satara, Maharashtra",
+    "image": "/team-on-ground/krushi-1.jpg",
+    "story": "The Kulkarni brothers found their true calling..."
+  }
+]

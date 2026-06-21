@@ -1,0 +1,22 @@
+{
+  "title": "OUR TEAM",
+  "subtitle": "Meet the visionaries",
+  "members": [
+    {
+      "id": 1,
+      "name": "Satyajit Hange",
+      "designation": "Co-Founder Farmer",
+      "image": "/founders/satyajit.JPG",
+      "linkedin": "#",
+      "description": "Farmer's son Satyajit is a graduate in Economics and has done his MBA from Pune. He has worked in the banking sector for a decade and oversees the farm operations."
+    },
+    {
+      "id": 2,
+      "name": "Ajinkya Hange",
+      "designation": "Co-Founder Farmer",
+      "image": "/founders/ajinkya.JPG",
+      "linkedin": "#",
+      "description": "Farmer's son Ajinkya is a graduate in Computer Science and has done his MBA from Pune. He worked in banking before returning to farming."
+    }
+  ]
+}

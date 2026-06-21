@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Oil",
+    "icon": "faBottleDroplet",
+    "link": "/collections/all"
+  },
+  {
+    "id": 2,
+    "name": "Rice",
+    "icon": "faWheatAwn",
+    "link": "/collections/all"
+  },
+  {
+    "id": 3,
+    "name": "Jaggery",
+    "icon": "faCubes",
+    "link": "/collections/all"
+  },
+  {
+    "id": 4,
+    "name": "Spices",
+    "icon": "faMortarPestle",
+    "link": "/collections/all"
+  },
+  {
+    "id": 5,
+    "name": "Immunity",
+    "icon": "faShieldHeart",
+    "link": "/collections/all"
+  },
+  {
+    "id": 6,
+    "name": "Breakfast & Snacks",
+    "icon": "faBowlFood",
+    "link": "/collections/all"
+  },
+  {
+    "id": 7,
+    "name": "Grains & Pulses",
+    "icon": "faSeedling",
+    "link": "/collections/all"
+  }
+]

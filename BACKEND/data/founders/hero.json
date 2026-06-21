@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "id": "team",
+      "title": "Our Team",
+      "image": "/founders/hero-banner-1.JPG",
+      "size": "large"
+    },
+    {
+      "id": "founders",
+      "title": "Founders",
+      "image": "/founders/hero-banner-2.JPG",
+      "size": "small"
+    },
+    {
+      "id": "culture",
+      "title": "Culture & Career",
+      "image": "/founders/hero-banner-3.JPG",
+      "size": "small"
+    }
+  ]
+}

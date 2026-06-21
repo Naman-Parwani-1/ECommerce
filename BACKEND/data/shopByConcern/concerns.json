@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Weight Loss",
+    "image": "/concerns/weight-loss.JPG",
+    "icon": "faWeightScale",
+    "link": "/pages/shop-by-concern"
+  },
+  {
+    "id": 2,
+    "name": "Heart Health",
+    "image": "/concerns/heart-health.JPG",
+    "icon": "faWeightScale",
+    "link": "/pages/shop-by-concern"
+  },
+  {
+    "id": 3,
+    "name": "Diabetes Care",
+    "image": "/concerns/diabetes-care.JPG",
+    "icon": "faWeightScale",
+    "link": "/pages/shop-by-concern"
+  },
+  {
+    "id": 4,
+    "name": "Gut & Digestive Health",
+    "image": "/concerns/gut-health.JPG",
+    "icon": "faBacteria",
+    "link": "/pages/shop-by-concern"
+  },
+  {
+    "id": 5,
+    "name": "Immunity",
+    "image": "/concerns/weight-loss.JPG",
+    "icon": "faShieldHeart",
+    "link": "/pages/shop-by-concern"
+  }
+]

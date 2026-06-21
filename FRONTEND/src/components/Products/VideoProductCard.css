@@ -1,0 +1,132 @@
+.video-card {
+  position: relative;
+
+  height: 560px;
+
+  border-radius: 18px;
+
+  overflow: hidden;
+
+  background: #fff;
+}
+
+.video-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.video-wrapper video {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+}
+
+.play-icon {
+  position: absolute;
+
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+  width: 70px;
+  height: 70px;
+
+  border-radius: 50%;
+
+  background: rgba(255,255,255,.9);
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  font-size: 28px;
+
+  z-index: 5;
+}
+
+.video-product-info {
+  position: absolute;
+
+  left: 10px;
+  right: 10px;
+  bottom: 60px;
+
+  background: rgba(255,255,255,.95);
+
+  border-radius: 12px;
+
+  padding: 10px;
+
+  display: flex;
+
+  gap: 10px;
+
+  align-items: center;
+}
+
+.video-product-info img {
+  width: 55px;
+  height: 55px;
+
+  object-fit: cover;
+
+  border-radius: 6px;
+}
+
+.video-product-info h4 {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
+
+  line-height: 1.2;
+}
+
+.video-product-info p {
+  margin-top: 4px;
+
+  font-weight: 500;
+}
+
+.video-buttons {
+  position: absolute;
+
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+
+  display: flex;
+
+  gap: 8px;
+}
+
+.video-buttons button:first-child {
+  flex: 1;
+
+  height: 42px;
+
+  border: none;
+
+  background: #ad342a;
+
+  color: white;
+
+  font-weight: 700;
+
+  border-radius: 6px;
+}
+
+.video-cart-icon {
+  width: 42px;
+
+  border: none;
+
+  background: #ad342a;
+
+  color: white;
+
+  border-radius: 6px;
+}

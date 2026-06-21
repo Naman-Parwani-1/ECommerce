@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "A2 Gir Cow Ghee",
+    "review": "Traditional bilona-made ghee with rich aroma and taste.",
+    "name": "Anand M",
+    "cardColor": "#b92a00",
+    "image": "/products/ghee-1.JPG"
+  },
+
+  {
+    "id": 2,
+    "title": "Forest Honey",
+    "review": "Pure, raw and unprocessed forest honey.",
+    "name": "Maya Madne",
+    "cardColor": "#ad342a",
+    "image": "/products/honey-1.JPG"
+  },
+
+  {
+    "id": 3,
+    "title": "Groundnut Oil",
+    "review": "Wood pressed and naturally extracted.",
+    "name": "Rahul Sharma",
+    "cardColor": "#9a5d20",
+    "image": "/products/oil-1.JPG"
+  },
+
+  {
+    "id": 4,
+    "title": "Low GI Rice",
+    "review": "Perfect for daily healthy meals.",
+    "name": "Karan Patel",
+    "cardColor": "#8c6136",
+    "image": "/products/rice-1.JPG"
+  },
+  {
+    "id": 5,
+    "title": "A2 Gir Cow Ghee",
+    "review": "Traditional bilona-made ghee with rich aroma and taste.",
+    "name": "Anand M",
+    "cardColor": "#b92a00",
+    "image": "/products/ghee-1.JPG"
+  },
+
+  {
+    "id": 6,
+    "title": "Forest Honey",
+    "review": "Pure, raw and unprocessed forest honey.",
+    "name": "Maya Madne",
+    "cardColor": "#8b5a35",
+    "image": "/products/honey-1.JPG"
+  },
+
+  {
+    "id": 7,
+    "title": "Groundnut Oil",
+    "review": "Wood pressed and naturally extracted.",
+    "name": "Rahul Sharma",
+    "cardColor": "#9a5d20",
+    "image": "/products/oil-1.JPG"
+  },
+
+  {
+    "id": 8,
+    "title": "Low GI Rice",
+    "review": "Perfect for daily healthy meals.",
+    "name": "Karan Patel",
+    "cardColor": "#8c6136",
+    "image": "/products/rice-1.JPG"
+  }
+]

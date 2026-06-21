@@ -1,0 +1,113 @@
+.awards-hero {
+    position: relative;
+
+    max-width: 1320px;
+
+    margin: 40px auto 100px;
+
+    padding: 0 20px;
+}
+
+.hero-background-text {
+    position: absolute;
+
+    top: -20px;
+
+    left: 0;
+
+    width: 100%;
+
+    text-align: center;
+
+    font-size: 120px;
+
+    font-weight: 800;
+
+    color: #efe8df;
+
+    z-index: 1;
+
+    line-height: 1;
+}
+
+.hero-content {
+    position: relative;
+
+    z-index: 2;
+
+    display: grid;
+
+    grid-template-columns: 1.35fr 1fr;
+
+    align-items: center;
+
+    gap: 40px;
+
+    padding-top: 90px;
+}
+
+.hero-image img {
+    width: 100%;
+
+    border-radius: 24px;
+
+    display: block;
+}
+
+.hero-text h1 {
+    color: #ad342a;
+
+    font-size: 64px;
+
+    font-weight: 700;
+
+    margin-bottom: 20px;
+}
+
+.hero-intro {
+    font-size: 20px;
+
+    font-weight: 700;
+
+    line-height: 1.6;
+
+    margin-bottom: 25px;
+}
+
+.hero-description {
+    font-size: 20px;
+
+    line-height: 1.7;
+
+    margin-bottom: 30px;
+}
+
+.hero-contact {
+    font-weight: 700;
+
+    color: #ad342a;
+}
+
+.hero-text a {
+    color: #ad342a;
+
+    font-weight: 700;
+
+    text-decoration: underline;
+}
+
+.hero-wave {
+    position: absolute;
+
+    bottom: -40px;
+
+    right: 0;
+
+    width: 55%;
+
+    height: 180px;
+
+    background: #f4ede5;
+
+    border-top-left-radius: 120px;
+}

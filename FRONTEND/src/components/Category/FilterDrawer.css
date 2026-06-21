@@ -1,0 +1,72 @@
+.drawer-overlay {
+  position: fixed;
+
+  inset: 0;
+
+  background: rgba(0, 0, 0, 0.45);
+
+  z-index: 999;
+}
+
+.filter-drawer {
+  position: fixed;
+
+  top: 0;
+  left: 0;
+
+  width: 320px;
+
+  height: 100vh;
+
+  background: white;
+
+  z-index: 1000;
+
+  padding: 25px;
+
+  overflow-y: auto;
+}
+
+.drawer-header {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  margin-bottom: 30px;
+}
+
+.drawer-header h3 {
+  margin: 0;
+
+  font-size: 24px;
+}
+
+.drawer-header button {
+  border: none;
+
+  background: none;
+
+  font-size: 24px;
+
+  cursor: pointer;
+}
+
+.filter-group {
+  margin-bottom: 30px;
+}
+
+.filter-group h4 {
+  margin-bottom: 15px;
+
+  color: #20491f;
+}
+
+.filter-group label {
+  display: block;
+
+  margin-bottom: 12px;
+
+  cursor: pointer;
+}

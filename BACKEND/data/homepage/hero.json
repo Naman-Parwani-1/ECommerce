@@ -1,0 +1,23 @@
+{
+  "mainSlider": [
+    {
+      "id": 1,
+      "image": "/banners/hero-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/banners/hero-2.jpg"
+    }
+  ],
+
+  "sideBanners": [
+    {
+      "id": 1,
+      "image": "/banners/hero-3.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/banners/membership-banner.jpg"
+    }
+  ]
+}

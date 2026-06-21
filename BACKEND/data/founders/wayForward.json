@@ -1,0 +1,21 @@
+{
+  "title": "Way Forward",
+  "description": "We're building a fully traceable, sustainable food system - expanding to more farms, supporting 20,000 more farmers (currently at 5K), and restoring soil health through regenerative practices. With transparency as the foundation, the journey ahead is about growth that nourishes people, protects the planet, and preserves farming traditions for generations.",
+  "cards": [
+    {
+      "icon": "leaf",
+      "title": "Soil Regeneration",
+      "text": "Expanding regenerative practices"
+    },
+    {
+      "icon": "users",
+      "title": "Farmer Network",
+      "text": "From 5,000 to 20,000 farmers"
+    },
+    {
+      "icon": "search",
+      "title": "Transparency",
+      "text": "Complete farm-to-fork transparency"
+    }
+  ]
+}

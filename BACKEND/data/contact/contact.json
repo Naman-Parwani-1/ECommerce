@@ -1,0 +1,62 @@
+{
+  "phone": "+91 74067 53753",
+  "hours": "Monday to Saturday · 10:00 AM - 6:00 PM",
+
+  "contactForm": {
+    "image": "/founders/founder-1.JPG"
+  },
+ 
+  "infoCards": [
+    {
+      "id": 1,
+      "title": "General Support",
+      "icon": "mail",
+      "emails": [
+        "info@twobrothersindia.com"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Farm Visits",
+      "icon": "leaf",
+      "emails": [
+        "visit@twobrothersindia.com"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Customer Care",
+      "icon": "users",
+      "emails": [
+        "info@twobrothersindia.com",
+        "mihir@twobrothersindia.com"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Marketing & Collaborations",
+      "icon": "megaphone",
+      "description": "Brand, Events, Collaborations & Influencers",
+      "emails": [
+        "marketing@twobrothersindia.com"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Founders",
+      "icon": "users",
+      "emails": [
+        "satyajit@twobrothersindia.com",
+        "ajinkya@twobrothersindia.com"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Gifting / Corporate / Weddings / B2B",
+      "icon": "gift",
+      "emails": [
+        "kapil@twobrothersindia.com"
+      ]
+    }
+  ]
+}

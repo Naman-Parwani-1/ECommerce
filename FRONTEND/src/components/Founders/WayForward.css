@@ -1,0 +1,107 @@
+.way-forward {
+  max-width: 1320px;
+
+  margin: 120px auto;
+
+  padding: 0 20px;
+}
+
+.way-title {
+  text-align: center;
+
+  font-size: 72px;
+
+  font-weight: 600;
+
+  color: #ad342a;
+
+  margin-bottom: 30px;
+}
+
+.way-line {
+  width: 120px;
+
+  height: 4px;
+
+  background: #ad342a;
+
+  margin: 0 auto 60px;
+}
+
+.way-container {
+  background: #e9f1e1;
+
+  padding: 60px;
+}
+
+.way-cards {
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 40px;
+
+  margin-bottom: 60px;
+}
+
+.way-card {
+  background: white;
+
+  padding: 50px 30px;
+
+  text-align: center;
+
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.08);
+}
+
+.way-icon {
+  color: #2f6b4f;
+
+  margin-bottom: 20px;
+}
+
+.way-card h3 {
+  font-size: 24px;
+
+  color: #2f6b4f;
+
+  margin-bottom: 15px;
+}
+
+.way-card p {
+  font-size: 18px;
+
+  color: #2f6b4f;
+
+  line-height: 1.5;
+}
+
+.way-description {
+  max-width: 1000px;
+
+  margin: 0 auto;
+
+  text-align: center;
+
+  font-size: 24px;
+
+  line-height: 1.7;
+
+  color: #222;
+}
+
+@media (max-width: 992px) {
+
+  .way-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .way-title {
+    font-size: 48px;
+  }
+
+  .way-description {
+    font-size: 20px;
+  }
+}

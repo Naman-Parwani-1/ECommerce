@@ -1,0 +1,13 @@
+.concern-heading {
+  max-width: 1320px;
+
+  margin: 50px auto 30px;
+
+  padding: 0 20px;
+
+  color: #ad342a;
+
+  font-size: 52px;
+
+  font-weight: 700;
+}

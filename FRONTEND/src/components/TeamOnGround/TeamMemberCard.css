@@ -1,0 +1,68 @@
+.team-member-card {
+  background: #e9f5f8;
+
+  border: 1px solid #4f9cb0;
+
+  border-radius: 6px;
+
+  overflow: hidden;
+
+  box-shadow:
+    0 3px 10px rgba(0, 0, 0, 0.08);
+
+  transition: transform 0.3s ease;
+}
+
+.team-member-card:hover {
+  transform: translateY(-5px);
+}
+
+.member-header {
+  background: #ad342a;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 14px;
+
+  font-size: 18px;
+
+  font-weight: 600;
+}
+
+.member-image {
+  width: 100%;
+
+  height: 260px;
+
+  object-fit: cover;
+
+  display: block;
+
+  padding: 16px;
+}
+
+.member-content {
+  padding: 0 20px 24px;
+}
+
+.quote-mark {
+  color: #7bc7d6;
+
+  font-size: 48px;
+
+  line-height: 1;
+
+  margin-bottom: 10px;
+}
+
+.member-story {
+  color: #4b4b4b;
+
+  font-size: 14px;
+
+  line-height: 1.7;
+
+  margin: 0;
+}

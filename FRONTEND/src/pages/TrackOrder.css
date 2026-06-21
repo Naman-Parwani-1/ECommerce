@@ -1,0 +1,39 @@
+.track-order-page {
+  min-height: 100vh;
+
+  display: flex;
+
+  flex-direction: column;
+
+  background: #f5f5f5;
+}
+
+.track-header {
+  background: #ffffff;
+
+  border-bottom: 1px solid #e8e8e8;
+
+  padding: 12px 0;
+}
+
+.track-logo {
+  width: 120px;
+
+  display: block;
+
+  margin: 0 auto;
+}
+
+.track-content {
+  flex: 1;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: flex-start;
+
+  padding-top: 80px;
+
+  padding-bottom: 40px;
+}

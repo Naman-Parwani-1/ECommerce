@@ -1,0 +1,31 @@
+.category-hero {
+  max-width: 1320px;
+
+  margin: 30px auto 60px;
+
+  padding: 0 20px;
+}
+
+.category-hero-content {
+  text-align: center;
+
+  margin-bottom: 25px;
+}
+
+.category-hero-image {
+  width: 100%;
+
+  height: 420px;
+
+  object-fit: cover;
+
+  border-radius: 28px;
+
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .category-hero-image {
+    height: 240px;
+  }
+}

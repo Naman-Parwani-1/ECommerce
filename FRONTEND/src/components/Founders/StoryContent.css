@@ -1,0 +1,62 @@
+.story-content-box {
+  max-width: 1320px;
+
+  margin: 40px auto 100px;
+
+  padding: 0 20px;
+}
+
+.story-inner {
+  background: #ffffff;
+
+  border-radius: 16px;
+
+  padding: 55px 50px;
+
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.08);
+
+  position: relative;
+}
+
+.story-inner p {
+  font-size: 18px;
+
+  line-height: 1.9;
+
+  color: #ad342a;
+
+  margin-bottom: 28px;
+}
+
+.story-highlight {
+  font-weight: 700;
+
+  color: #ad342a;
+}
+
+.story-highlight.center {
+  text-align: center;
+
+  font-size: 22px;
+}
+
+.timeline-btn {
+  display: block;
+
+  margin: 40px auto 0;
+
+  border: none;
+
+  border-radius: 40px;
+
+  padding: 14px 34px;
+
+  background: #d9e1cf;
+
+  color: #ad342a;
+
+  font-size: 16px;
+
+  cursor: pointer;
+}

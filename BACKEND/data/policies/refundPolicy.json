@@ -1,0 +1,39 @@
+{
+  "title": "Refund policy",
+
+  "intro": [
+    "Once an order is confirmed, TBOF will not accept return or refund requests. However, in any of the below situations, we are more than happy to work with our patrons to find an amicable solution that is fair to all parties."
+  ],
+
+  "sections": [
+    {
+      "title": "In case of Damaged product",
+      "points": [
+        "We will be happy to re-send and replace the product and it will take 7 to 10 days.",
+        "Order number, invoice image, outer box image and unboxing video must be shared.",
+        "Only the affected product can be replaced.",
+        "Email will be responded to within 24-48 hrs."
+      ]
+    },
+
+    {
+      "title": "In case of Missing product",
+      "points": [
+        "TBOF needs to be notified within 2 days from delivery.",
+        "Invoice and unboxing video are required.",
+        "Missing product will be re-sent.",
+        "Email will be responded to within 24-48 hrs."
+      ]
+    },
+
+    {
+      "title": "In case of spoiled product",
+      "points": [
+        "Product spoilage should be reported within 2 days.",
+        "Packaging details and product images are required.",
+        "Product will be investigated before replacement.",
+        "Email will be responded to within 24-48 hrs."
+      ]
+    }
+  ]
+}

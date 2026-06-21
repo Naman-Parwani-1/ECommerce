@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "video": "/videos/video-1.mp4",
+    "productImage": "/products/ghee-1.JPG",
+    "productName": "Khapli Atta",
+    "price": 1891
+  },
+  {
+    "id": 2,
+    "video": "/videos/video-2.mp4",
+    "productImage": "/products/honey-1.JPG",
+    "productName": "A2 Gir Cow Ghee",
+    "price": 3370
+  },
+  {
+    "id": 3,
+    "video": "/videos/video-3.mp4",
+    "productImage": "/products/oil-1.JPG",
+    "productName": "Khapli Rice",
+    "price": 1745
+  },
+  {
+    "id": 4,
+    "video": "/videos/video-4.mp4",
+    "productImage": "/products/rice-1.JPG",
+    "productName": "Amla Prash",
+    "price": 1960
+  },
+  {
+    "id": 5,
+    "video": "/videos/video-1.mp4",
+    "productImage": "/products/ghee-1.JPG",
+    "productName": "Khapli Atta",
+    "price": 1891
+  },
+  {
+    "id": 6,
+    "video": "/videos/video-2.mp4",
+    "productImage": "/products/honey-1.JPG",
+    "productName": "A2 Gir Cow Ghee",
+    "price": 3370
+  },
+  {
+    "id": 7,
+    "video": "/videos/video-3.mp4",
+    "productImage": "/products/oil-1.JPG",
+    "productName": "Khapli Rice",
+    "price": 1745
+  },
+  {
+    "id": 8,
+    "video": "/videos/video-4.mp4",
+    "productImage": "/products/rice-1.JPG",
+    "productName": "Amla Prash",
+    "price": 1960
+  }
+]

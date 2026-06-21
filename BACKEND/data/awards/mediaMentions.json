@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "/awards/award-1.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "Two Brothers Organic Farms raises Rs 110 Cr",
+    "description": "Two Brothers Organic Farms has raised funding to expand manufacturing capacity.",
+    "link": "https://yourstory.com/article"
+  },
+  {
+    "id": 2,
+    "image": "/awards/award-2.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "How these two brothers returned to their village",
+    "description": "A story of regenerative farming and rural transformation.",
+    "link": "https://mid-day.com/article"
+  },
+  {
+    "id": 3,
+    "image": "/awards/award-3.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "Two Brothers Organic Farms raises Rs 110 Cr",
+    "description": "Two Brothers Organic Farms has raised funding to expand manufacturing capacity.",
+    "link": "https://yourstory.com/article"
+  },
+  {
+    "id": 4,
+    "image": "/awards/award-4.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "How these two brothers returned to their village",
+    "description": "A story of regenerative farming and rural transformation.",
+    "link": "https://mid-day.com/article"
+  },
+  {
+    "id": 5,
+    "image": "/awards/award-1.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "Two Brothers Organic Farms raises Rs 110 Cr",
+    "description": "Two Brothers Organic Farms has raised funding to expand manufacturing capacity.",
+    "link": "https://yourstory.com/article"
+  },
+  {
+    "id": 6,
+    "image": "/awards/award-2.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "How these two brothers returned to their village",
+    "description": "A story of regenerative farming and rural transformation.",
+    "link": "https://mid-day.com/article"
+  },
+  {
+    "id": 7,
+    "image": "/awards/award-3.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "Two Brothers Organic Farms raises Rs 110 Cr",
+    "description": "Two Brothers Organic Farms has raised funding to expand manufacturing capacity.",
+    "link": "https://yourstory.com/article"
+  },
+  {
+    "id": 8,
+    "image": "/awards/award-4.JPG",
+    "logo": "/brands/brand-1.JPG",
+    "title": "How these two brothers returned to their village",
+    "description": "A story of regenerative farming and rural transformation.",
+    "link": "https://mid-day.com/article"
+  }
+]

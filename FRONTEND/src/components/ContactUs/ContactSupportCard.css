@@ -1,0 +1,101 @@
+.support-card {
+  max-width: 1100px;
+
+  margin: 30px auto 80px;
+
+  background: #ffffff;
+
+  border: 1px solid #e8e8e8;
+
+  border-radius: 24px;
+
+  padding: 28px;
+}
+
+.support-header {
+  display: flex;
+
+  align-items: center;
+
+  gap: 12px;
+
+  margin-bottom: 15px;
+}
+
+.support-header svg {
+  color: #ad342a;
+}
+
+.support-header h2 {
+  font-size: 34px;
+
+  font-weight: 600;
+
+  color: #222;
+
+  margin: 0;
+}
+
+.support-phone {
+  font-size: 26px;
+
+  font-weight: 700;
+
+  color: #222;
+
+  margin-bottom: 10px;
+}
+
+.support-hours {
+  font-size: 22px;
+
+  color: #333;
+
+  margin-bottom: 30px;
+}
+
+.support-actions {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+
+  gap: 20px;
+}
+
+.support-btn {
+  background: #ad342a;
+
+  color: white;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  padding: 18px;
+
+  border-radius: 14px;
+
+  font-size: 22px;
+
+  font-weight: 600;
+
+  transition: 0.3s;
+}
+
+.support-btn:hover {
+  background: #6d2019;
+}
+
+@media (max-width: 768px) {
+  .support-actions {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-hero h1 {
+    font-size: 48px;
+  }
+
+  .support-header h2 {
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,79 @@
+.team-hero {
+  position: relative;
+
+  width: 100%;
+
+  overflow: hidden;
+}
+
+.team-hero-image {
+  width: 100%;
+
+  display: block;
+}
+
+.team-hero-overlay {
+  position: absolute;
+
+  top: 60px;
+
+  left: 60px;
+
+  max-width: 500px;
+
+  z-index: 2;
+}
+
+.team-hero-overlay h1 {
+  color: #ad342a;
+
+  font-size: 30px;
+
+  font-weight: 800;
+
+  margin-bottom: 20px;
+
+  text-transform: uppercase;
+}
+
+.team-hero-overlay p {
+  color: #ad342a;
+
+  font-size: 12px;
+
+  line-height: 1.5;
+
+  margin: 0;
+}
+
+.team-hero-overlay h2 {
+  color: #ad342a;
+
+  font-size: 21px;
+
+  font-weight: 700;
+
+  margin: 8px 0;
+}
+
+@media (max-width: 768px) {
+  .team-hero-overlay {
+    top: 25px;
+
+    left: 25px;
+
+    max-width: 300px;
+  }
+
+  .team-hero-overlay h1 {
+    font-size: 317px;
+  }
+
+  .team-hero-overlay h2 {
+    font-size: 12px;
+  }
+
+  .team-hero-overlay p {
+    font-size: 8px;
+  }
+}

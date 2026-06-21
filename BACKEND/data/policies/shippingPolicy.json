@@ -1,0 +1,21 @@
+{
+  "title": "Shipping and Delivery Policy",
+
+  "intro": [
+    "Please note that the free shipping policy will apply only if specified as part of promotional campaigns or special offers.",
+    "Please note our shipping policies as below."
+  ],
+
+  "sections": [
+    {
+      "title": "",
+      "points": [
+        "A complete postal address including pin code, email id and contact number is essential to help us ship your order.",
+        "If the ordered item is in stock, it will be packed and dispatched within 3 working days.",
+        "If some items are not in stock, they will be produced and dispatched within 10 working days.",
+        "Courier partners deliver Monday to Saturday between 9am and 7pm.",
+        "Working days exclude public holidays and Sundays."
+      ]
+    }
+  ]
+}

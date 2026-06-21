@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Founders & Team",
+    "icon": "faUsers",
+    "link": "/pages/founders-and-team"
+  },
+  {
+    "id": 2,
+    "title": "Media Recognition",
+    "icon": "faNewspaper",
+    "link": "/pages/awards"
+  },
+  {
+    "id": 3,
+    "title": "Team on Ground",
+    "icon": "faPeopleGroup",
+    "link": "/pages/team-on-ground"
+  }
+]

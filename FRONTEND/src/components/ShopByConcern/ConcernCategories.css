@@ -1,0 +1,63 @@
+.concern-section {
+  max-width: 1320px;
+
+  margin: 50px auto;
+
+  padding: 0 20px;
+}
+
+.concern-section h1 {
+  text-align: center;
+
+  color: #20491f;
+
+  font-size: 38px;
+
+  font-weight: 700;
+
+  margin-bottom: 40px;
+}
+
+.concern-grid {
+  display: grid;
+
+  grid-template-columns: repeat(6, 1fr);
+
+  gap: 24px;
+}
+
+.concern-card {
+  background: white;
+
+  border-radius: 16px;
+
+  padding: 24px;
+
+  text-align: center;
+
+  cursor: pointer;
+
+  border: 1px solid #ececec;
+
+  transition: 0.3s;
+}
+
+.concern-card:hover {
+  transform: translateY(-4px);
+}
+
+.concern-card img {
+  width: 60px;
+
+  height: 60px;
+
+  object-fit: contain;
+
+  margin-bottom: 12px;
+}
+
+.concern-card span {
+  font-size: 14px;
+
+  font-weight: 600;
+}

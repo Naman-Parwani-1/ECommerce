@@ -1,0 +1,51 @@
+.shortcut-wrapper {
+  background: white;
+  padding: 10px 0 20px;
+}
+
+.shortcut-container {
+  display: flex;
+  justify-content: center;
+  gap: 55px;
+  flex-wrap: wrap;
+}
+
+.shortcut-item {
+  text-align: center;
+}
+
+.shortcut-circle {
+  width: 90px;
+  height: 90px;
+
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: auto;
+
+  color: white;
+
+  font-size: 28px;
+}
+
+.shortcut-circle.green {
+  background: #ad342a;
+}
+
+.shortcut-circle.brown {
+  background: #5c3204;
+}
+
+.shortcut-item span {
+  display: block;
+
+  margin-top: 10px;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  color: #264b26;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Track Order",
+    "icon": "faTruck",
+    "link": "/pages/track-order"
+  },
+  {
+    "id": 2,
+    "title": "Contact Us",
+    "icon": "faPhone",
+    "link": "/pages/contact-us"
+  },
+  {
+    "id": 3,
+    "title": "Refund Policy",
+    "icon": "faRotateLeft",
+    "link": "/pages/refund-policy"
+  },
+  {
+    "id": 4,
+    "title": "Shipping Policy",
+    "icon": "faBox",
+    "link": "/pages/shipping-policy"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Essentials",
+    "icon": "sun",
+    "color": "green"
+  },
+  {
+    "id": 2,
+    "title": "Membership Deals",
+    "icon": "gift",
+    "color": "brown"
+  },
+  {
+    "id": 3,
+    "title": "New Launches",
+    "icon": "box",
+    "color": "green"
+  },
+  {
+    "id": 4,
+    "title": "Under ₹499",
+    "icon": "tag",
+    "color": "brown"
+  },
+  {
+    "id": 5,
+    "title": "All Products",
+    "icon": "jar",
+    "color": "green"
+  },
+  {
+    "id": 6,
+    "title": "Under ₹999",
+    "icon": "tag",
+    "color": "brown"
+  }
+]

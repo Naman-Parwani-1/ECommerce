@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "badge": "New Launch",
+    "badgeColor": "green",
+    "name": "High Protein Khapli Atta",
+    "description": "22g Protein in 4 Rotis | Low Gluten",
+    "price": 2265,
+    "rating": 4.55,
+    "reviews": 11,
+    "image": "/products/ghee-1.JPG",
+    "variants": ["5kg", "10kg"]
+  },
+  {
+    "id": 2,
+    "badge": "Trending",
+    "badgeColor": "orange",
+    "name": "Khapli Wheat Atta",
+    "description": "Low GI | Certified Glyphosate-Free",
+    "price": 1891,
+    "rating": 4.9,
+    "reviews": 1574,
+    "image": "/products/honey-1.JPG",
+    "variants": ["5kg", "10kg"]
+  },
+  {
+    "id": 3,
+    "badge": "Best Seller",
+    "badgeColor": "green",
+    "name": "A2 Gir Cow Ghee",
+    "description": "Bilona-made | Certified Pure",
+    "price": 3370,
+    "rating": 4.9,
+    "reviews": 2331,
+    "image": "/products/oil-1.JPG",
+    "variants": ["500ml", "1000ml"]
+  },
+  {
+    "id": 4,
+    "badge": "Trending",
+    "badgeColor": "orange",
+    "name": "Multigrain Atta",
+    "description": "50% Khapli | 50% Supergrains",
+    "price": 1745,
+    "rating": 4.87,
+    "reviews": 360,
+    "image": "/products/rice-1.JPG",
+    "variants": ["5kg", "10kg"]
+  },
+  {
+    "id": 5,
+    "badge": "New Launch",
+    "badgeColor": "green",
+    "name": "High Protein Khapli Atta",
+    "description": "22g Protein in 4 Rotis | Low Gluten",
+    "price": 2265,
+    "rating": 4.55,
+    "reviews": 11,
+    "image": "/products/ghee-1.JPG",
+    "variants": ["5kg", "10kg"]
+  },
+  {
+    "id": 6,
+    "badge": "Trending",
+    "badgeColor": "orange",
+    "name": "Khapli Wheat Atta",
+    "description": "Low GI | Certified Glyphosate-Free",
+    "price": 1891,
+    "rating": 4.9,
+    "reviews": 1574,
+    "image": "/products/honey-1.JPG",
+    "variants": ["5kg", "10kg"]
+  },
+  {
+    "id": 7,
+    "badge": "Best Seller",
+    "badgeColor": "green",
+    "name": "A2 Gir Cow Ghee",
+    "description": "Bilona-made | Certified Pure",
+    "price": 3370,
+    "rating": 4.9,
+    "reviews": 2331,
+    "image": "/products/oil-1.JPG",
+    "variants": ["500ml", "1000ml"]
+  },
+  {
+    "id": 8,
+    "badge": "Trending",
+    "badgeColor": "orange",
+    "name": "Multigrain Atta",
+    "description": "50% Khapli | 50% Supergrains",
+    "price": 1745,
+    "rating": 4.87,
+    "reviews": 360,
+    "image": "/products/rice-1.JPG",
+    "variants": ["5kg", "10kg"]
+  }
+]

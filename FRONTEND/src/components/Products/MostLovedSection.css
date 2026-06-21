@@ -1,0 +1,61 @@
+.most-loved-section {
+  max-width: 1320px;
+
+  margin: 60px auto;
+
+  padding: 30px 20px;
+
+  background: #eef0d8;
+
+  border-radius: 20px;
+
+  overflow: hidden;
+}
+
+.most-loved-header {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  margin-bottom: 30px;
+}
+
+.most-loved-header h2 {
+  font-size: 56px;
+
+  font-weight: 900;
+
+  color: #ad342a;
+
+  margin: 0;
+}
+
+.shop-more-btn {
+  background: #ad342a;
+
+  color: white;
+
+  border: none;
+
+  padding: 12px 24px;
+
+  border-radius: 6px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+}
+
+/* IMPORTANT */
+
+.most-loved-section .swiper {
+  width: 100%;
+}
+
+.most-loved-section .swiper-slide {
+  height: auto;
+
+  display: flex;
+}
