@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://ecommerce-backend.onrender.com/api",
+  baseURL: "https://backend-1-wqv7.onrender.com/api",
 });
 
 export const getHomepage = async () => {
